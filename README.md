@@ -1,2 +1,5 @@
 # binarytree-awslambda
-AWS Lambda for BinaryTree project
+
+AWS Serverless Lambda for BinaryTree project
+
+Written with Node.js v1.0.2
