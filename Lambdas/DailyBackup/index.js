@@ -7,8 +7,8 @@ var attr = require('dynamodb-data-types').AttributeValue;
 var json2csv = require('json2csv');
 
 /*
-AWS.config.update({ accessKeyId: 'AKIAI55QVOCDGWZHWBJA',
- secretAccessKey: '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',
+AWS.config.update({ accessKeyId: '',
+ secretAccessKey: '',
   region: 'us-east-1' });
 */
 

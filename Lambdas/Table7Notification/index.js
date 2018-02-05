@@ -6,10 +6,6 @@ var wrapper = require('co-express');
 var attr = require('dynamodb-data-types').AttributeValue;
 var json2csv = require('json2csv');
 
-AWS.config.update({ accessKeyId: 'AKIAJ7NI2OQT3Y5SLDNA',
- secretAccessKey: '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',
-  region: 'us-east-1' });
-
 var docClient = new AWS.DynamoDB.DocumentClient();
 
 var events = {

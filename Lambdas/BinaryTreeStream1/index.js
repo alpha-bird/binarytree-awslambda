@@ -5,8 +5,8 @@ var Promise = require('promise');
 var wrapper = require('co-express');
 var attr = require('dynamodb-data-types').AttributeValue;
 /*
-AWS.config.update({ accessKeyId: 'AKIAI55QVOCDGWZHWBJA',
- secretAccessKey: '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',
+AWS.config.update({ accessKeyId: '',
+ secretAccessKey: '',
   region: 'us-east-1' });
 */
 ///AWS Optimized Table1 to Table 12, Table23
